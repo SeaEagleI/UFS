@@ -1,0 +1,174 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/Buffer.cpp
+Buffer.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/Buffer.h
+BufferManager.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/BufferManager.h
+iostream
+-
+iomanip
+-
+ctype.h
+-
+
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/Buffer.h
+bits/stdc++.h
+-
+
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/BufferManager.cpp
+BufferManager.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/BufferManager.h
+Utility.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/Utility.h
+
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/BufferManager.h
+Buffer.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/Buffer.h
+DeviceDriver.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/DeviceDriver.h
+bits/stdc++.h
+-
+unordered_map
+-
+
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/DeviceDriver.cpp
+DeviceDriver.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/DeviceDriver.h
+
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/DeviceDriver.h
+bits/stdc++.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/bits/stdc++.h
+
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/File.cpp
+Utility.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/Utility.h
+File.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/File.h
+User.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/User.h
+
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/File.h
+INode.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/INode.h
+
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/FileManager.cpp
+Utility.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/Utility.h
+FileManager.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/FileManager.h
+BufferManager.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/BufferManager.h
+User.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/User.h
+string
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/string
+stdio.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/stdio.h
+iostream
+-
+
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/FileManager.h
+FileSystem.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/FileSystem.h
+OpenFileManager.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/OpenFileManager.h
+
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/FileSystem.cpp
+Utility.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/Utility.h
+FileSystem.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/FileSystem.h
+User.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/User.h
+
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/FileSystem.h
+INode.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/INode.h
+DeviceDriver.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/DeviceDriver.h
+BufferManager.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/BufferManager.h
+
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/INode.cpp
+Utility.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/Utility.h
+INode.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/INode.h
+FileSystem.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/FileSystem.h
+User.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/User.h
+
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/INode.h
+Buffer.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/Buffer.h
+
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/OpenFileManager.cpp
+Utility.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/Utility.h
+OpenFileManager.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/OpenFileManager.h
+User.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/User.h
+
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/OpenFileManager.h
+File.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/File.h
+FileSystem.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/FileSystem.h
+
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/User.cpp
+User.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/User.h
+Utility.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/Utility.h
+iostream
+-
+fstream
+-
+
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/User.h
+FileManager.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/FileManager.h
+string
+-
+
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/Utility.cpp
+Utility.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/Utility.h
+
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/Utility.h
+bits/stdc++.h
+-
+
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/main.cpp
+INode.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/INode.h
+File.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/File.h
+FileSystem.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/FileSystem.h
+OpenFileManager.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/OpenFileManager.h
+FileManager.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/FileManager.h
+User.h
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/User.h
+ctime
+-
+iostream
+-
+unordered_map
+-
+afxres.h
+-
+string
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/string
+

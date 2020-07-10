@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="UFS"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Program Files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Program Files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Program Files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Program Files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UFS">
+				<Option output="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/UFS.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++"/>
+					<Add directory="D:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++/mingw32"/>
+					<Add directory="D:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++/backward"/>
+					<Add directory="D:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include"/>
+					<Add directory="D:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/../../../../include"/>
+					<Add directory="D:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Program Files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/Makefile&quot;  VERBOSE=1 UFS"/>
+					<CompileFile command="D:/Program Files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Program Files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Program Files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UFS/fast">
+				<Option output="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/UFS.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++"/>
+					<Add directory="D:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++/mingw32"/>
+					<Add directory="D:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++/backward"/>
+					<Add directory="D:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include"/>
+					<Add directory="D:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/../../../../include"/>
+					<Add directory="D:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Program Files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/Makefile&quot;  VERBOSE=1 UFS/fast"/>
+					<CompileFile command="D:/Program Files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Program Files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Program Files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Program Files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Program Files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Program Files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Program Files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Program Files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Program Files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Program Files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Program Files/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/Buffer.cpp">
+			<Option target="UFS"/>
+		</Unit>
+		<Unit filename="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/Buffer.h">
+			<Option target="UFS"/>
+		</Unit>
+		<Unit filename="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/BufferManager.cpp">
+			<Option target="UFS"/>
+		</Unit>
+		<Unit filename="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/BufferManager.h">
+			<Option target="UFS"/>
+		</Unit>
+		<Unit filename="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/DeviceDriver.cpp">
+			<Option target="UFS"/>
+		</Unit>
+		<Unit filename="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/DeviceDriver.h">
+			<Option target="UFS"/>
+		</Unit>
+		<Unit filename="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/File.cpp">
+			<Option target="UFS"/>
+		</Unit>
+		<Unit filename="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/File.h">
+			<Option target="UFS"/>
+		</Unit>
+		<Unit filename="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/FileManager.cpp">
+			<Option target="UFS"/>
+		</Unit>
+		<Unit filename="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/FileManager.h">
+			<Option target="UFS"/>
+		</Unit>
+		<Unit filename="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/FileSystem.cpp">
+			<Option target="UFS"/>
+		</Unit>
+		<Unit filename="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/FileSystem.h">
+			<Option target="UFS"/>
+		</Unit>
+		<Unit filename="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/INode.cpp">
+			<Option target="UFS"/>
+		</Unit>
+		<Unit filename="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/INode.h">
+			<Option target="UFS"/>
+		</Unit>
+		<Unit filename="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/OpenFileManager.cpp">
+			<Option target="UFS"/>
+		</Unit>
+		<Unit filename="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/OpenFileManager.h">
+			<Option target="UFS"/>
+		</Unit>
+		<Unit filename="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/User.cpp">
+			<Option target="UFS"/>
+		</Unit>
+		<Unit filename="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/User.h">
+			<Option target="UFS"/>
+		</Unit>
+		<Unit filename="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/Utility.cpp">
+			<Option target="UFS"/>
+		</Unit>
+		<Unit filename="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/Utility.h">
+			<Option target="UFS"/>
+		</Unit>
+		<Unit filename="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/main.cpp">
+			<Option target="UFS"/>
+		</Unit>
+		<Unit filename="D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

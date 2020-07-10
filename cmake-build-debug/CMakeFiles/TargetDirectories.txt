@@ -1,0 +1,3 @@
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/CMakeFiles/UFS.dir
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Past Time/Grade3 Semester2/OS CD/codes/UFS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

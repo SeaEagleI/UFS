@@ -1,0 +1,127 @@
+cd ../dir1/dir2
+mkdir ../../dir1
+ls ../../
+ls ..
+mkdir ../dir2
+ls
+mkdir ../dir2
+ls ..
+ls /
+ls /dir1/
+cd /
+cd dir1/dir2/
+cd ..
+create dir1/file2 -rw
+ls
+ls /dir1
+create file1 -rw
+cd dir1
+create file2 -r
+create file1 -rw
+create file1 -rw
+ls
+exit
+ls
+stat file1
+stat dir1
+man stat
+ls
+stat file1
+stat /dir1
+history
+ls
+man open
+open file1 -rw
+stat file1
+close 0
+stat file1
+stat file1
+open /file1 -rw
+stat file1
+close 0
+stat /file1
+man open
+ls
+open file1 -rw
+close 0
+man open
+ls .
+man open 
+ls 
+stat file1
+open file1 -rw
+stat /file1
+close 0
+stat file1
+man read
+man write
+man seek
+ls
+open file1 -rw
+write 0 file1-2000.txt 1000
+read 0 55
+read 0 55
+close 0
+ls
+open file1 -rw
+read 0 55
+seek 0 -14 1
+read 0 14
+read 0 -o readOut2.txt 105
+close 0
+ls
+exit
+ls
+stat /
+exit
+ls
+fformat
+ls
+fformat
+ls
+ls
+ls
+exit
+ls
+create file3 -rw
+ls
+create file1 -r
+ls
+man create 
+create file3 -w
+ls
+create file2 -r
+ls
+fformat
+ls
+mkdir dir1 
+ls
+create file -rw
+ls
+create file2 -r
+create file4 -w
+mkdir 5
+rmdir 5
+ls
+cd dir1
+ls
+mkdir dir11
+create file23 -rw
+ls
+create file23 -rw
+ls
+open file23
+open file23 -rw
+write 8 file1-2000.txt 1000
+close 8
+ls
+open file23
+open file23 -r
+read 8 100
+exit
+ls dir1
+open dir1/file23 -rw
+read 0 350
+exit
+ls
+exit
