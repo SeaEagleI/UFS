@@ -1,3 +1,5 @@
+# Unix-like FileSystem 类Unix文件系统命令终端实现
+
 ### 文件目录说明：
 1) UFS为源代码目录，该目录下有各种*.h和*.cpp文件，以及CMakeLists.txt。
 2) build为可执行文件目录，包括可执行文件UFS.exe，必要的磁盘镜像文件*.img，及其他*.txt,history,passwd等其他依赖文件。
