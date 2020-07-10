@@ -125,3 +125,11 @@ read 0 350
 exit
 ls
 exit
+ls
+create file5 -rw
+ls
+create file5 -rw
+ls
+exit
+ls
+exit
