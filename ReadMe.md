@@ -29,7 +29,7 @@ make
 
 - 编译成功示例：
 
-  <img src="http://47.92.96.62/pics/compile%20demo.png">
+  <img src="https://raw.githubusercontent.com/SeaEagleI/UFS/master/pics/compile%20demo.png">
 
 ### 直接运行方法：
 
